@@ -6,3 +6,5 @@
 - **ConsoleApplication1.cpp** — код программы.
 - **poyasnenie№7.docx** — пояснение кода.
 - **README.md** — краткое описание.
+
+# Демонстрация игры
