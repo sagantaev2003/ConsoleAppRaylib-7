@@ -8,3 +8,6 @@
 - **README.md** — краткое описание.
 
 # Демонстрация игры
+
+https://youtu.be/QI0DoB9F4WM
+
